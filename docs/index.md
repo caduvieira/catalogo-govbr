@@ -1,7 +1,7 @@
 
 <a id="topo"></a>
 
-# Manual de Catálogo de Inventário de Bases do Governo Federal
+# Manual de Catalogação de Bases do Governo Federal
 
 Esse manual serve como orientação para catalogação das bases de dados do Governo Federal Brasileiro. 
 

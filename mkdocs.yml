@@ -1,7 +1,7 @@
-site_name: Manual Catálogo de Inventário do Governo Federal
+site_name: Manual de Catalogação de Bases do Governo Federal
 theme: readthedocs
 repo_url: https://github.com/govbr/catalogo-govbr/
-site_description: Manual do Catálogo de Inventário do Governo Federal Brasileiro.
+site_description: Manual de Catalogação de Bases do Governo Federal Brasileiro.
 copyright: CC0
 repo_name: <i class="fa fa-github"></i> Contribua com o Manual
 site_author: Ministério do Planejamento, Orçamento e Desenvolvimento
