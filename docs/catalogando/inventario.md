@@ -8,10 +8,6 @@ O usuário, ao logar no portal, deverá acessar o menu [Dados](http://dados.gov.
 ![Tela de Cadastro de Inventário](../imagens/Tela_Cadastro_Inventario.png)
 <br>
 
-!!! danger "Atenção"
-    No momento da criação desse manual a funcionalidade "Adicionar novo Inventário" não está funcionando.
-    Essa funcionalidade deve estar pronta na próxima versão do portal de dados.
-
 Ao clicar na funcionalidade [Adicionar Novo Conjunto de Dados](dados.gov.br/dataset/new), o editor terá acesso aos seguintes formulários:
 
 * Criar um conjunto de dados
