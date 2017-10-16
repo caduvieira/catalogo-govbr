@@ -3,7 +3,7 @@
 
 # Adicionando Dados do Inventário
 
-Após preencher as informações do conjunto de dados deve-se preencher as informações de metadados da base de dados. 
+Após preencher as informações do item de iventtário deve-se catalogar e preencher os recursos das base de dados. 
 
 ![Tela de Cadastro de Dados do Inventário](../imagens/Tela_Adicionar_Dados.png)
 <br>
@@ -27,13 +27,13 @@ Alguns exemplos de arquivo são:
 Arquivo
 :   Arquivo a ser enviado de documentação da base de dados ou link para um arquivo.
 
-Nome
+Nome do recurso
 :   Nome descritivo do arquivo a ser catalogado.
 
 Descrição
 :   Preencher com a descrição do arquivo da base de dados do inventário. A descrição deve ser sucinta informando do que o arquivo trata.
 
-Formato
+Formato do recurso
 :   Formato do arquivo a ser catalogado.
 
 ## Finalizando o preenchimento
